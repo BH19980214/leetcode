@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "520检测大写字母/1.0.0": {
+        "runtime": {
+          "520检测大写字母.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "520检测大写字母/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

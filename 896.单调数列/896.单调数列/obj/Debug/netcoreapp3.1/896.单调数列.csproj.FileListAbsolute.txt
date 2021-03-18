@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\896.单调数列\896.单调数列\bin\Debug\netcoreapp3.1\896.单调数列.exe
+C:\Users\ASUS\source\repos\896.单调数列\896.单调数列\bin\Debug\netcoreapp3.1\896.单调数列.deps.json
+C:\Users\ASUS\source\repos\896.单调数列\896.单调数列\bin\Debug\netcoreapp3.1\896.单调数列.runtimeconfig.json
+C:\Users\ASUS\source\repos\896.单调数列\896.单调数列\bin\Debug\netcoreapp3.1\896.单调数列.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\896.单调数列\896.单调数列\bin\Debug\netcoreapp3.1\896.单调数列.dll
+C:\Users\ASUS\source\repos\896.单调数列\896.单调数列\bin\Debug\netcoreapp3.1\896.单调数列.pdb
+C:\Users\ASUS\source\repos\896.单调数列\896.单调数列\obj\Debug\netcoreapp3.1\896.单调数列.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\896.单调数列\896.单调数列\obj\Debug\netcoreapp3.1\896.单调数列.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\896.单调数列\896.单调数列\obj\Debug\netcoreapp3.1\896.单调数列.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\896.单调数列\896.单调数列\obj\Debug\netcoreapp3.1\896.单调数列.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\896.单调数列\896.单调数列\obj\Debug\netcoreapp3.1\896.单调数列.dll
+C:\Users\ASUS\source\repos\896.单调数列\896.单调数列\obj\Debug\netcoreapp3.1\896.单调数列.pdb
+C:\Users\ASUS\source\repos\896.单调数列\896.单调数列\obj\Debug\netcoreapp3.1\896.单调数列.genruntimeconfig.cache

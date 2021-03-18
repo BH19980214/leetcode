@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\offer53缺失的数字\offer53缺失的数字\bin\Debug\netcoreapp3.1\offer53缺失的数字.exe
+C:\Users\ASUS\source\repos\offer53缺失的数字\offer53缺失的数字\bin\Debug\netcoreapp3.1\offer53缺失的数字.deps.json
+C:\Users\ASUS\source\repos\offer53缺失的数字\offer53缺失的数字\bin\Debug\netcoreapp3.1\offer53缺失的数字.runtimeconfig.json
+C:\Users\ASUS\source\repos\offer53缺失的数字\offer53缺失的数字\bin\Debug\netcoreapp3.1\offer53缺失的数字.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\offer53缺失的数字\offer53缺失的数字\bin\Debug\netcoreapp3.1\offer53缺失的数字.dll
+C:\Users\ASUS\source\repos\offer53缺失的数字\offer53缺失的数字\bin\Debug\netcoreapp3.1\offer53缺失的数字.pdb
+C:\Users\ASUS\source\repos\offer53缺失的数字\offer53缺失的数字\obj\Debug\netcoreapp3.1\offer53缺失的数字.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\offer53缺失的数字\offer53缺失的数字\obj\Debug\netcoreapp3.1\offer53缺失的数字.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\offer53缺失的数字\offer53缺失的数字\obj\Debug\netcoreapp3.1\offer53缺失的数字.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\offer53缺失的数字\offer53缺失的数字\obj\Debug\netcoreapp3.1\offer53缺失的数字.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\offer53缺失的数字\offer53缺失的数字\obj\Debug\netcoreapp3.1\offer53缺失的数字.dll
+C:\Users\ASUS\source\repos\offer53缺失的数字\offer53缺失的数字\obj\Debug\netcoreapp3.1\offer53缺失的数字.pdb
+C:\Users\ASUS\source\repos\offer53缺失的数字\offer53缺失的数字\obj\Debug\netcoreapp3.1\offer53缺失的数字.genruntimeconfig.cache

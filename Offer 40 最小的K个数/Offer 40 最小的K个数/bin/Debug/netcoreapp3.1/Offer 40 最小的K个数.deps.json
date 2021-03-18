@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Offer 40 最小的K个数/1.0.0": {
+        "runtime": {
+          "Offer 40 最小的K个数.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Offer 40 最小的K个数/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

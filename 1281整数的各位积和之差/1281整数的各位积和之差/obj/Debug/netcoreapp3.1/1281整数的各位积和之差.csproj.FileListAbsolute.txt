@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\1281整数的各位积和之差\1281整数的各位积和之差\bin\Debug\netcoreapp3.1\1281整数的各位积和之差.exe
+C:\Users\ASUS\source\repos\1281整数的各位积和之差\1281整数的各位积和之差\bin\Debug\netcoreapp3.1\1281整数的各位积和之差.deps.json
+C:\Users\ASUS\source\repos\1281整数的各位积和之差\1281整数的各位积和之差\bin\Debug\netcoreapp3.1\1281整数的各位积和之差.runtimeconfig.json
+C:\Users\ASUS\source\repos\1281整数的各位积和之差\1281整数的各位积和之差\bin\Debug\netcoreapp3.1\1281整数的各位积和之差.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\1281整数的各位积和之差\1281整数的各位积和之差\bin\Debug\netcoreapp3.1\1281整数的各位积和之差.dll
+C:\Users\ASUS\source\repos\1281整数的各位积和之差\1281整数的各位积和之差\bin\Debug\netcoreapp3.1\1281整数的各位积和之差.pdb
+C:\Users\ASUS\source\repos\1281整数的各位积和之差\1281整数的各位积和之差\obj\Debug\netcoreapp3.1\1281整数的各位积和之差.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\1281整数的各位积和之差\1281整数的各位积和之差\obj\Debug\netcoreapp3.1\1281整数的各位积和之差.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\1281整数的各位积和之差\1281整数的各位积和之差\obj\Debug\netcoreapp3.1\1281整数的各位积和之差.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\1281整数的各位积和之差\1281整数的各位积和之差\obj\Debug\netcoreapp3.1\1281整数的各位积和之差.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\1281整数的各位积和之差\1281整数的各位积和之差\obj\Debug\netcoreapp3.1\1281整数的各位积和之差.dll
+C:\Users\ASUS\source\repos\1281整数的各位积和之差\1281整数的各位积和之差\obj\Debug\netcoreapp3.1\1281整数的各位积和之差.pdb
+C:\Users\ASUS\source\repos\1281整数的各位积和之差\1281整数的各位积和之差\obj\Debug\netcoreapp3.1\1281整数的各位积和之差.genruntimeconfig.cache

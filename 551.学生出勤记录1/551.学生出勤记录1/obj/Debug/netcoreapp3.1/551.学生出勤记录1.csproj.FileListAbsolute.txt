@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\551.学生出勤记录1\551.学生出勤记录1\bin\Debug\netcoreapp3.1\551.学生出勤记录1.exe
+C:\Users\ASUS\source\repos\551.学生出勤记录1\551.学生出勤记录1\bin\Debug\netcoreapp3.1\551.学生出勤记录1.deps.json
+C:\Users\ASUS\source\repos\551.学生出勤记录1\551.学生出勤记录1\bin\Debug\netcoreapp3.1\551.学生出勤记录1.runtimeconfig.json
+C:\Users\ASUS\source\repos\551.学生出勤记录1\551.学生出勤记录1\bin\Debug\netcoreapp3.1\551.学生出勤记录1.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\551.学生出勤记录1\551.学生出勤记录1\bin\Debug\netcoreapp3.1\551.学生出勤记录1.dll
+C:\Users\ASUS\source\repos\551.学生出勤记录1\551.学生出勤记录1\bin\Debug\netcoreapp3.1\551.学生出勤记录1.pdb
+C:\Users\ASUS\source\repos\551.学生出勤记录1\551.学生出勤记录1\obj\Debug\netcoreapp3.1\551.学生出勤记录1.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\551.学生出勤记录1\551.学生出勤记录1\obj\Debug\netcoreapp3.1\551.学生出勤记录1.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\551.学生出勤记录1\551.学生出勤记录1\obj\Debug\netcoreapp3.1\551.学生出勤记录1.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\551.学生出勤记录1\551.学生出勤记录1\obj\Debug\netcoreapp3.1\551.学生出勤记录1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\551.学生出勤记录1\551.学生出勤记录1\obj\Debug\netcoreapp3.1\551.学生出勤记录1.dll
+C:\Users\ASUS\source\repos\551.学生出勤记录1\551.学生出勤记录1\obj\Debug\netcoreapp3.1\551.学生出勤记录1.pdb
+C:\Users\ASUS\source\repos\551.学生出勤记录1\551.学生出勤记录1\obj\Debug\netcoreapp3.1\551.学生出勤记录1.genruntimeconfig.cache

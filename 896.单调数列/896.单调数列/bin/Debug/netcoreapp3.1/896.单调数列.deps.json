@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "896.单调数列/1.0.0": {
+        "runtime": {
+          "896.单调数列.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "896.单调数列/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "830较大分组的位置/1.0.0": {
+        "runtime": {
+          "830较大分组的位置.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "830较大分组的位置/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

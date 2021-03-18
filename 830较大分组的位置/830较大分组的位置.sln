@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "830较大分组的位置", "830较大分组的位置\830较大分组的位置.csproj", "{564FCEDC-D47C-4B64-B0BD-4D7190527DED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{564FCEDC-D47C-4B64-B0BD-4D7190527DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564FCEDC-D47C-4B64-B0BD-4D7190527DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564FCEDC-D47C-4B64-B0BD-4D7190527DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564FCEDC-D47C-4B64-B0BD-4D7190527DED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C88CF03A-1602-424B-AB53-701F678F77EA}
+	EndGlobalSection
+EndGlobal

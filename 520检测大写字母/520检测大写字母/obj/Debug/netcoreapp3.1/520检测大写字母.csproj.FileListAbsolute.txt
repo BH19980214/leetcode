@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\520检测大写字母\520检测大写字母\bin\Debug\netcoreapp3.1\520检测大写字母.exe
+C:\Users\ASUS\source\repos\520检测大写字母\520检测大写字母\bin\Debug\netcoreapp3.1\520检测大写字母.deps.json
+C:\Users\ASUS\source\repos\520检测大写字母\520检测大写字母\bin\Debug\netcoreapp3.1\520检测大写字母.runtimeconfig.json
+C:\Users\ASUS\source\repos\520检测大写字母\520检测大写字母\bin\Debug\netcoreapp3.1\520检测大写字母.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\520检测大写字母\520检测大写字母\bin\Debug\netcoreapp3.1\520检测大写字母.dll
+C:\Users\ASUS\source\repos\520检测大写字母\520检测大写字母\bin\Debug\netcoreapp3.1\520检测大写字母.pdb
+C:\Users\ASUS\source\repos\520检测大写字母\520检测大写字母\obj\Debug\netcoreapp3.1\520检测大写字母.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\520检测大写字母\520检测大写字母\obj\Debug\netcoreapp3.1\520检测大写字母.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\520检测大写字母\520检测大写字母\obj\Debug\netcoreapp3.1\520检测大写字母.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\520检测大写字母\520检测大写字母\obj\Debug\netcoreapp3.1\520检测大写字母.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\520检测大写字母\520检测大写字母\obj\Debug\netcoreapp3.1\520检测大写字母.dll
+C:\Users\ASUS\source\repos\520检测大写字母\520检测大写字母\obj\Debug\netcoreapp3.1\520检测大写字母.pdb
+C:\Users\ASUS\source\repos\520检测大写字母\520检测大写字母\obj\Debug\netcoreapp3.1\520检测大写字母.genruntimeconfig.cache

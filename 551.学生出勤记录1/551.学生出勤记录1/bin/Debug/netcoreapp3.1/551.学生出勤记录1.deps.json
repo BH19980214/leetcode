@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "551.学生出勤记录1/1.0.0": {
+        "runtime": {
+          "551.学生出勤记录1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "551.学生出勤记录1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

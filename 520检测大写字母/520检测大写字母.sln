@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "520检测大写字母", "520检测大写字母\520检测大写字母.csproj", "{07B1CC28-0E65-454C-8943-4644972169AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07B1CC28-0E65-454C-8943-4644972169AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B1CC28-0E65-454C-8943-4644972169AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B1CC28-0E65-454C-8943-4644972169AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B1CC28-0E65-454C-8943-4644972169AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C55F923-7DF2-4ED9-B7CD-E6DAFF89D2A8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "offer53缺失的数字/1.0.0": {
+        "runtime": {
+          "offer53缺失的数字.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "offer53缺失的数字/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

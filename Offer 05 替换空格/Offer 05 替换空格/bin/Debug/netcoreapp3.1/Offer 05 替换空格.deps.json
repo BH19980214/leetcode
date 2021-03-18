@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Offer 05 替换空格/1.0.0": {
+        "runtime": {
+          "Offer 05 替换空格.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Offer 05 替换空格/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

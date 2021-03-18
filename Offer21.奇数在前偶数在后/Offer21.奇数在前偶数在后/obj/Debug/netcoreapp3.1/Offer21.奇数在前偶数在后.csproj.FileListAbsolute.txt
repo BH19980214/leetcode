@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\Offer21.奇数在前偶数在后\Offer21.奇数在前偶数在后\bin\Debug\netcoreapp3.1\Offer21.奇数在前偶数在后.exe
+C:\Users\ASUS\source\repos\Offer21.奇数在前偶数在后\Offer21.奇数在前偶数在后\bin\Debug\netcoreapp3.1\Offer21.奇数在前偶数在后.deps.json
+C:\Users\ASUS\source\repos\Offer21.奇数在前偶数在后\Offer21.奇数在前偶数在后\bin\Debug\netcoreapp3.1\Offer21.奇数在前偶数在后.runtimeconfig.json
+C:\Users\ASUS\source\repos\Offer21.奇数在前偶数在后\Offer21.奇数在前偶数在后\bin\Debug\netcoreapp3.1\Offer21.奇数在前偶数在后.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Offer21.奇数在前偶数在后\Offer21.奇数在前偶数在后\bin\Debug\netcoreapp3.1\Offer21.奇数在前偶数在后.dll
+C:\Users\ASUS\source\repos\Offer21.奇数在前偶数在后\Offer21.奇数在前偶数在后\bin\Debug\netcoreapp3.1\Offer21.奇数在前偶数在后.pdb
+C:\Users\ASUS\source\repos\Offer21.奇数在前偶数在后\Offer21.奇数在前偶数在后\obj\Debug\netcoreapp3.1\Offer21.奇数在前偶数在后.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Offer21.奇数在前偶数在后\Offer21.奇数在前偶数在后\obj\Debug\netcoreapp3.1\Offer21.奇数在前偶数在后.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Offer21.奇数在前偶数在后\Offer21.奇数在前偶数在后\obj\Debug\netcoreapp3.1\Offer21.奇数在前偶数在后.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Offer21.奇数在前偶数在后\Offer21.奇数在前偶数在后\obj\Debug\netcoreapp3.1\Offer21.奇数在前偶数在后.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Offer21.奇数在前偶数在后\Offer21.奇数在前偶数在后\obj\Debug\netcoreapp3.1\Offer21.奇数在前偶数在后.dll
+C:\Users\ASUS\source\repos\Offer21.奇数在前偶数在后\Offer21.奇数在前偶数在后\obj\Debug\netcoreapp3.1\Offer21.奇数在前偶数在后.pdb
+C:\Users\ASUS\source\repos\Offer21.奇数在前偶数在后\Offer21.奇数在前偶数在后\obj\Debug\netcoreapp3.1\Offer21.奇数在前偶数在后.genruntimeconfig.cache

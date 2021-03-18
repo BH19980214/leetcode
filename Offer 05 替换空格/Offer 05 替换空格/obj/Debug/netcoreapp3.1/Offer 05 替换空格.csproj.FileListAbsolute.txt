@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\Offer 05 替换空格\Offer 05 替换空格\bin\Debug\netcoreapp3.1\Offer 05 替换空格.exe
+C:\Users\ASUS\source\repos\Offer 05 替换空格\Offer 05 替换空格\bin\Debug\netcoreapp3.1\Offer 05 替换空格.deps.json
+C:\Users\ASUS\source\repos\Offer 05 替换空格\Offer 05 替换空格\bin\Debug\netcoreapp3.1\Offer 05 替换空格.runtimeconfig.json
+C:\Users\ASUS\source\repos\Offer 05 替换空格\Offer 05 替换空格\bin\Debug\netcoreapp3.1\Offer 05 替换空格.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Offer 05 替换空格\Offer 05 替换空格\bin\Debug\netcoreapp3.1\Offer 05 替换空格.dll
+C:\Users\ASUS\source\repos\Offer 05 替换空格\Offer 05 替换空格\bin\Debug\netcoreapp3.1\Offer 05 替换空格.pdb
+C:\Users\ASUS\source\repos\Offer 05 替换空格\Offer 05 替换空格\obj\Debug\netcoreapp3.1\Offer 05 替换空格.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Offer 05 替换空格\Offer 05 替换空格\obj\Debug\netcoreapp3.1\Offer 05 替换空格.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Offer 05 替换空格\Offer 05 替换空格\obj\Debug\netcoreapp3.1\Offer 05 替换空格.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Offer 05 替换空格\Offer 05 替换空格\obj\Debug\netcoreapp3.1\Offer 05 替换空格.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Offer 05 替换空格\Offer 05 替换空格\obj\Debug\netcoreapp3.1\Offer 05 替换空格.dll
+C:\Users\ASUS\source\repos\Offer 05 替换空格\Offer 05 替换空格\obj\Debug\netcoreapp3.1\Offer 05 替换空格.pdb
+C:\Users\ASUS\source\repos\Offer 05 替换空格\Offer 05 替换空格\obj\Debug\netcoreapp3.1\Offer 05 替换空格.genruntimeconfig.cache

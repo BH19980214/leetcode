@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\830较大分组的位置\830较大分组的位置\bin\Debug\netcoreapp3.1\830较大分组的位置.exe
+C:\Users\ASUS\source\repos\830较大分组的位置\830较大分组的位置\bin\Debug\netcoreapp3.1\830较大分组的位置.deps.json
+C:\Users\ASUS\source\repos\830较大分组的位置\830较大分组的位置\bin\Debug\netcoreapp3.1\830较大分组的位置.runtimeconfig.json
+C:\Users\ASUS\source\repos\830较大分组的位置\830较大分组的位置\bin\Debug\netcoreapp3.1\830较大分组的位置.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\830较大分组的位置\830较大分组的位置\bin\Debug\netcoreapp3.1\830较大分组的位置.dll
+C:\Users\ASUS\source\repos\830较大分组的位置\830较大分组的位置\bin\Debug\netcoreapp3.1\830较大分组的位置.pdb
+C:\Users\ASUS\source\repos\830较大分组的位置\830较大分组的位置\obj\Debug\netcoreapp3.1\830较大分组的位置.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\830较大分组的位置\830较大分组的位置\obj\Debug\netcoreapp3.1\830较大分组的位置.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\830较大分组的位置\830较大分组的位置\obj\Debug\netcoreapp3.1\830较大分组的位置.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\830较大分组的位置\830较大分组的位置\obj\Debug\netcoreapp3.1\830较大分组的位置.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\830较大分组的位置\830较大分组的位置\obj\Debug\netcoreapp3.1\830较大分组的位置.dll
+C:\Users\ASUS\source\repos\830较大分组的位置\830较大分组的位置\obj\Debug\netcoreapp3.1\830较大分组的位置.pdb
+C:\Users\ASUS\source\repos\830较大分组的位置\830较大分组的位置\obj\Debug\netcoreapp3.1\830较大分组的位置.genruntimeconfig.cache
